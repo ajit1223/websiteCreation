@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.carousel-item img{
+    height: 700px;
+    width: 400px;
+    border: 1px dashed darkgreen;
+    border-radius: 1    px;
+    image-resolution: 150px;
+}
+.carouselExampleIndicators{
+    height: 380px;
+    width:800px ;
+}
+.navbar{
+    box-shadow: 0 5px 10px #efefef;
+}
+.navbar img{
+    height: 50px;
+    width: 50px;
+}
+
